@@ -61,11 +61,15 @@ $ npm run test:cov
 ## Docker
 
 after install docker on your system type this code:
+```bash
 $ docker-compose up -d
-
+```
 ## Prsima
-
+```bash
 $ npx prisma init
+
+$ npx prisma --help
+```
 
 ## Support
 
